@@ -1,0 +1,7 @@
+development:
+  sessions:
+  clients:
+    default:
+      database: chickenbase
+      hosts:
+        - localhost:27017
